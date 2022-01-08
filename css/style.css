@@ -5698,7 +5698,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 
 .bg-1:before {
   content: "";
-  position: relative;
+  position: absolute;
   width: 150%;
   height: 70%;
   right: -100%;
